@@ -1,3 +1,10 @@
+/*
+1.The array not need to be sorted.
+2.Applicable on duplicated element on array.
+3.Time complexity is more then binary search : n
+*/
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
