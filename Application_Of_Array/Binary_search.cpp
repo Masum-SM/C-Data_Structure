@@ -3,7 +3,7 @@ Limitation of Binary Search:
 1.The array need to be sorted.
 2.It is not applicable on duplicate element on array.
 
-Facality :
+Facility :
 1.Time complexity is less : log(n)
 
 */
