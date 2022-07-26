@@ -1,5 +1,6 @@
 /*
-WAP that will take n positive integers into an array A. Now find all the integers that are divisible by 3 and replace them by -1 in array A. Finally show all elements of array A.
+WAP that will take n positive integers into an array A. Now find all the integers that are divisible by 3 and 
+replace them by -1 in array A. Finally show all elements of array A.
 ####
 Sample input
 5
