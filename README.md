@@ -1,6 +1,6 @@
 <img align="center" width="100%" height="200" alt="Coding" src="https://i.ibb.co/pw2pzCk/datastructure.png">
 
-## ***In this repository, I will provide all of my implementation in DATA STRUCTURE , most of the implementation are done using c++.***
+## ***In this repository, I will provide all the implementation of DATA STRUCTURE that I have done , most of them are done using c++.***
 
 # Data Structure List : 
 
@@ -15,5 +15,23 @@
 - [Binary Search](https://github.com/Masum-SM/Data_Structure/blob/main/Application_Of_Array/Binary_search.cpp)
 
 ***Sorting Array's Elements***
+
+**:heart: LINKED LIST**
+
+***Singly Linked List***
+- [Basic Linked List](https://github.com/Masum-SM/Data_Structure/blob/main/Linked_List/Basic_linked_list.cpp)
+
+***Circular Linked List***
+
+***Doubly Linked List***
+
+ 
+**:heart: STACK**
+ 
+  
+**:heart: QUEUE**
+
+
+**:heart: TREE**
 
 ## **Non-Linear Data Structure**
