@@ -19,7 +19,7 @@
 
 **:heart: LINKED LIST**
 
-&nbsp; ***Singly Linked List***
+&nbsp;&nbsp; ***Singly Linked List***
 - [Basic Linked List](https://github.com/Masum-SM/Data_Structure/blob/main/Linked_List/Basic_linked_list.cpp)
 
 &nbsp;&nbsp; ***Circular Linked List***
