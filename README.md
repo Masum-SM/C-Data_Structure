@@ -6,7 +6,7 @@
 
 ## **Linear Data Structure**
  **:heart: ARRAY**
- -- [Traversing Array's Elements](https://github.com/Masum-SM/Data_Structure/blob/main/Array_Traverse_Insert_Delete/Traversing.cpp)
+ - [Traversing Array's Elements](https://github.com/Masum-SM/Data_Structure/blob/main/Array_Traverse_Insert_Delete/Traversing.cpp)
  - [Insertion In The Array](https://github.com/Masum-SM/Data_Structure/blob/main/Array_Traverse_Insert_Delete/Insertion.cpp)
  - [Deletion Array's Element](https://github.com/Masum-SM/Data_Structure/blob/main/Array_Traverse_Insert_Delete/Insertion.cpp)
  
@@ -16,7 +16,7 @@
 
 ***Sorting Array's Elements***
 
-</br>
+
 **:heart: LINKED LIST**
 
 ***Singly Linked List***
@@ -26,16 +26,16 @@
 
 ***Doubly Linked List***
 
-</br>
+<hr>
 **:heart: STACK**
  
 
-</br>
+<hr>
 **:heart: QUEUE**
 
 
-</br>
+<hr>
 **:heart: TREE**
 
-</br>
+<hr>
 ## **Non-Linear Data Structure**
