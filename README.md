@@ -6,25 +6,25 @@
 
 ## **Linear Data Structure**
  **:heart: ARRAY**
- - [Traversing Array's Elements](https://github.com/Masum-SM/Data_Structure/blob/main/Array_Traverse_Insert_Delete/Traversing.cpp)
- - [Insertion In The Array](https://github.com/Masum-SM/Data_Structure/blob/main/Array_Traverse_Insert_Delete/Insertion.cpp)
- - [Deletion Array's Element](https://github.com/Masum-SM/Data_Structure/blob/main/Array_Traverse_Insert_Delete/Insertion.cpp)
+&nbsp; - [Traversing Array's Elements](https://github.com/Masum-SM/Data_Structure/blob/main/Array_Traverse_Insert_Delete/Traversing.cpp)
+&nbsp; - [Insertion In The Array](https://github.com/Masum-SM/Data_Structure/blob/main/Array_Traverse_Insert_Delete/Insertion.cpp)
+&nbsp; - [Deletion Array's Element](https://github.com/Masum-SM/Data_Structure/blob/main/Array_Traverse_Insert_Delete/Insertion.cpp)
  
  &nbsp; ***Searching Element In Array***
-- [Liner Search](https://github.com/Masum-SM/Data_Structure/blob/main/Application_Of_Array/liner_search.cpp)
-- [Binary Search](https://github.com/Masum-SM/Data_Structure/blob/main/Application_Of_Array/Binary_search.cpp)
+&nbsp; - [Liner Search](https://github.com/Masum-SM/Data_Structure/blob/main/Application_Of_Array/liner_search.cpp)
+&nbsp; - [Binary Search](https://github.com/Masum-SM/Data_Structure/blob/main/Application_Of_Array/Binary_search.cpp)
 
 &nbsp; ***Sorting Array's Elements***
 
 
 **:heart: LINKED LIST**
 
-***Singly Linked List***
-- [Basic Linked List](https://github.com/Masum-SM/Data_Structure/blob/main/Linked_List/Basic_linked_list.cpp)
+&nbsp; ***Singly Linked List***
+&nbsp; - [Basic Linked List](https://github.com/Masum-SM/Data_Structure/blob/main/Linked_List/Basic_linked_list.cpp)
 
-***Circular Linked List***
+&nbsp; ***Circular Linked List***
 
-***Doubly Linked List***
+&nbsp; ***Doubly Linked List***
 
 <br/>
 
