@@ -26,16 +26,21 @@
 
 ***Doubly Linked List***
 
-<hr>
+<br/>
+
 **:heart: STACK**
  
 
-<hr>
+<br/>
+
 **:heart: QUEUE**
 
 
-<hr>
+
+<br/>
+
 **:heart: TREE**
 
-<hr>
+<br/>
+
 ## **Non-Linear Data Structure**
