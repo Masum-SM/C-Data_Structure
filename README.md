@@ -6,11 +6,11 @@
 
 ## **Linear Data Structure**
  **:heart: ARRAY**
-- [Traversing Array's Elements](https://github.com/Masum-SM/Data_Structure/blob/main/Array_Traverse_Insert_Delete/Traversing.cpp)
-- [Insertion In The Array](https://github.com/Masum-SM/Data_Structure/blob/main/Array_Traverse_Insert_Delete/Insertion.cpp)
-- [Deletion Array's Element](https://github.com/Masum-SM/Data_Structure/blob/main/Array_Traverse_Insert_Delete/Insertion.cpp)
+ - [Traversing Array's Elements](https://github.com/Masum-SM/Data_Structure/blob/main/Array_Traverse_Insert_Delete/Traversing.cpp)
+ - [Insertion In The Array](https://github.com/Masum-SM/Data_Structure/blob/main/Array_Traverse_Insert_Delete/Insertion.cpp)
+ - [Deletion Array's Element](https://github.com/Masum-SM/Data_Structure/blob/main/Array_Traverse_Insert_Delete/Insertion.cpp)
 
-### Searching Element In Array
+###### Searching Element In Array
 - [Liner Search](https://github.com/Masum-SM/Data_Structure/blob/main/Application_Of_Array/liner_search.cpp)
 - [Binary Search](https://github.com/Masum-SM/Data_Structure/blob/main/Application_Of_Array/Binary_search.cpp)
 
