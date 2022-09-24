@@ -10,11 +10,11 @@
  - [Insertion In The Array](https://github.com/Masum-SM/Data_Structure/blob/main/Array_Traverse_Insert_Delete/Insertion.cpp)
  - [Deletion Array's Element](https://github.com/Masum-SM/Data_Structure/blob/main/Array_Traverse_Insert_Delete/Insertion.cpp)
  
- &nbsp; ***Searching Element In Array***
+ &nbsp;&nbsp; ***Searching Element In Array***
 - [Liner Search](https://github.com/Masum-SM/Data_Structure/blob/main/Application_Of_Array/liner_search.cpp)
 - [Binary Search](https://github.com/Masum-SM/Data_Structure/blob/main/Application_Of_Array/Binary_search.cpp)
 
-&nbsp; ***Sorting Array's Elements***
+&nbsp;&nbsp; ***Sorting Array's Elements***
 
 
 **:heart: LINKED LIST**
@@ -22,9 +22,9 @@
 &nbsp; ***Singly Linked List***
 - [Basic Linked List](https://github.com/Masum-SM/Data_Structure/blob/main/Linked_List/Basic_linked_list.cpp)
 
-&nbsp; ***Circular Linked List***
+&nbsp;&nbsp; ***Circular Linked List***
 
-&nbsp; ***Doubly Linked List***
+&nbsp;&nbsp; ***Doubly Linked List***
 
 <br/>
 
