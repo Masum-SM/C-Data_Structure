@@ -4,10 +4,11 @@
 # Data Structure List : 
 
 ## **Linear Data Structure**
-  :heart: ARRAY
-    - [Traversing Array's Elements](https://github.com/Masum-SM/Data_Structure/blob/main/Array_Traverse_Insert_Delete/Traversing.cpp)
-    - [Insertion In The Array](https://github.com/Masum-SM/Data_Structure/blob/main/Array_Traverse_Insert_Delete/Insertion.cpp)
-    - [Deletion Array's Element](https://github.com/Masum-SM/Data_Structure/blob/main/Array_Traverse_Insert_Delete/Insertion.cpp)
+  **:heart: ARRAY**
+    </br>
+    - [Traversing Array's Elements](https://github.com/Masum-SM/Data_Structure/blob/main/Array_Traverse_Insert_Delete/Traversing.cpp)</br>
+    - [Insertion In The Array](https://github.com/Masum-SM/Data_Structure/blob/main/Array_Traverse_Insert_Delete/Insertion.cpp)</br>
+    - [Deletion Array's Element](https://github.com/Masum-SM/Data_Structure/blob/main/Array_Traverse_Insert_Delete/Insertion.cpp)</br>
 
 
 
