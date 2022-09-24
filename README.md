@@ -6,9 +6,9 @@
 ## **Linear Data Structure**
   **:heart: ARRAY**
     </br>
-    - [Traversing Array's Elements](https://github.com/Masum-SM/Data_Structure/blob/main/Array_Traverse_Insert_Delete/Traversing.cpp)</br>
-    - [Insertion In The Array](https://github.com/Masum-SM/Data_Structure/blob/main/Array_Traverse_Insert_Delete/Insertion.cpp)</br>
-    - [Deletion Array's Element](https://github.com/Masum-SM/Data_Structure/blob/main/Array_Traverse_Insert_Delete/Insertion.cpp)</br>
+    -[Traversing Array's Elements](https://github.com/Masum-SM/Data_Structure/blob/main/Array_Traverse_Insert_Delete/Traversing.cpp)</br>
+    -[Insertion In The Array](https://github.com/Masum-SM/Data_Structure/blob/main/Array_Traverse_Insert_Delete/Insertion.cpp)</br>
+    -[Deletion Array's Element](https://github.com/Masum-SM/Data_Structure/blob/main/Array_Traverse_Insert_Delete/Insertion.cpp)</br>
 
 
 
