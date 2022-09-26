@@ -23,6 +23,14 @@
 - [Basic Linked List](https://github.com/Masum-SM/Data_Structure/blob/main/Linked_List/Basic_linked_list.cpp)
 
 &nbsp;&nbsp; ***Circular Linked List***
+- [Mid of Linked List](https://github.com/Masum-SM/Data_Structure/blob/main/Linked_List/Circular_Linked_List/mid_of_linked_list.cpp)
+- [Sum of Linked List](https://github.com/Masum-SM/Data_Structure/blob/main/Linked_List/Circular_Linked_List/sum_of_linked_list.cpp)
+- [Make Cycle & Ditect Cycle & Remove Cycle in the linked list.](https://github.com/Masum-SM/Data_Structure/blob/main/Linked_List/Circular_Linked_List/make_and_ditect_and_remove_cycle_in_linked_list.cpp)
+
+
+&nbsp;&nbsp; ***Circular Linked List***
+
+<br/>
 
 &nbsp;&nbsp; ***Doubly Linked List***
 
