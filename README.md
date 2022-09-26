@@ -23,6 +23,9 @@
 - [Basic Linked List](https://github.com/Masum-SM/Data_Structure/blob/main/Linked_List/Basic_linked_list.cpp)
 - [Insertion At Head & Tail Of Linked List.](https://github.com/Masum-SM/Data_Structure/blob/main/Linked_List/Insert_at_head_and_tail.cpp)
 - [Insertion At Specific Position In The Linked List.](https://github.com/Masum-SM/Data_Structure/blob/main/Linked_List/inset_at_specific_position.cpp)
+- [Insertion After A Specific Value In The Linked List (Unique List).](https://github.com/Masum-SM/Data_Structure/blob/main/Linked_List/Insertion_after_a_specific_value_unique.cpp)
+
+
 
 &nbsp;&nbsp; ***Circular Linked List***
 - [Mid of Linked List](https://github.com/Masum-SM/Data_Structure/blob/main/Linked_List/Circular_Linked_List/mid_of_linked_list.cpp)
