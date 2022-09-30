@@ -15,7 +15,10 @@
 - [Binary Search](https://github.com/Masum-SM/Data_Structure/blob/main/Application_Of_Array/Binary_search.cpp)
 
 &nbsp;&nbsp; ***Sorting Array's Elements***
-
+- [Insertion Sort](https://github.com/Masum-SM/Data_Structure/blob/main/Application_Of_Array/Insertion_sort.cpp)
+- [Bubble Sort](https://github.com/Masum-SM/Data_Structure/blob/main/Application_Of_Array/bubble_sort.cpp)
+- [Optimized Bubble Sort](https://github.com/Masum-SM/Data_Structure/blob/main/Application_Of_Array/bubble_sort_redundant_inner_itaretion.cpp)
+- [Counting Sort](https://github.com/Masum-SM/Data_Structure/blob/main/Application_Of_Array/Counting_sort.cpp)
 
 **:heart: LINKED LIST**
 
