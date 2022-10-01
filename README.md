@@ -28,7 +28,7 @@
 - [Insertion At Specific Position In The Linked List.](https://github.com/Masum-SM/Data_Structure/blob/main/Linked_List/inset_at_specific_position.cpp)
 - [Insertion After A Specific Value In The Linked List (Unique List).](https://github.com/Masum-SM/Data_Structure/blob/main/Linked_List/Insertion_after_a_specific_value_unique.cpp)
 - [Deletion At Head.](https://github.com/Masum-SM/Data_Structure/blob/main/Linked_List/Delete_At_Head.cpp)
-
+- [Deletion At Tail.](https://github.com/Masum-SM/Data_Structure/blob/main/Linked_List/Delete_At_Tail.cpp)
 
 
 &nbsp;&nbsp; ***Circular Linked List***
