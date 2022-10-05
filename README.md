@@ -46,6 +46,7 @@
 
 &nbsp;&nbsp; ***Doubly Linked List***
 - [Insertion In Head & Tail](https://github.com/Masum-SM/Data_Structure/blob/main/Linked_List/Doubly_Linked_List/inset_at_head_and_tail_Doubly_list.cpp)
+- [Display and Reversely Display Doubly Linked List](https://github.com/Masum-SM/Data_Structure/blob/main/Linked_List/Doubly_Linked_List/inset_at_head_and_tail_Doubly_list.cpp) 
 <br/>
 
 **:heart: STACK**
