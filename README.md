@@ -69,6 +69,7 @@
 - [In-Order Traversal in Binary tree](https://github.com/Masum-SM/Data_Structure/blob/main/Tree/In_order_traversal.cpp)
 - [Post-Order Traversal in Binary tree](https://github.com/Masum-SM/Data_Structure/blob/main/Tree/post_Order_Traversal.cpp)
 - [Level-Order Traversal in Binary tree](https://github.com/Masum-SM/Data_Structure/blob/main/Tree/level_traverse.cpp)
+- [Boundary Traversal in Binary tree](https://github.com/Masum-SM/Data_Structure/blob/main/Tree/Boundary_traversal.cpp)
 
 <br/>
 **:heart: GRAPH**
