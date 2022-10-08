@@ -64,6 +64,9 @@
 <br/>
 
 **:heart: TREE**
+- [Binary Tree with formatted output](https://github.com/Masum-SM/Data_Structure/blob/main/Tree/binary_tree_formatted_output.cpp)
+- [Insertion In The Array](https://github.com/Masum-SM/Data_Structure/blob/main/Array_Traverse_Insert_Delete/Insertion.cpp)
+- [Deletion Array's Element](https://github.com/Masum-SM/Data_Structure/blob/main/Array_Traverse_Insert_Delete/Insertion.cpp)
 
 <br/>
 **:heart: GRAPH**
