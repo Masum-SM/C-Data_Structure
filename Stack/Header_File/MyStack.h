@@ -74,6 +74,10 @@ public:
             else return false;
         }
 
+    //-----------------SIZE-----------
+        int size(){
+            return count;
+        }
     
     
     
