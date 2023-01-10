@@ -68,6 +68,12 @@ public:
             return check;
         }
 
+    //------------EMPTY--------------
+        bool empty(){
+            if(head == NULL) return true;
+            else return false;
+        }
+
     
     
     
