@@ -43,6 +43,31 @@ public:
         top = newNode; // top = top->Next;
         count++;
     }
+    //------------POP---------------
+    int pop()
+        {
+            Node *delNOde;
+            delNOde = top;
+            int check = -1;
+            if(head == NULL){   // If stack is empty.
+                cout<<"Stack Underflow."<<endl;
+                return check;
+            }
+            if (top == head)   //If there is only one element.
+            {
+                head = top = NULL;
+            }
+            else  // If there is only one element.
+            {
+                top = delNOde->prev;
+                top->Next = NULL;
+            }
+            check = delNOde->value;
+            delete delNOde;
+            count--;
+            return check;
+        }
+
     
     
     
