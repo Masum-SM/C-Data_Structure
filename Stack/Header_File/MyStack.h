@@ -28,6 +28,21 @@ public:
         top = NULL;
     }
     
+    //------------PUSH---------------
+    void push(int value)
+    {
+        Node *newNode = new Node(value);
+        if (head == NULL)
+        {
+            head = top = newNode;
+            count++;
+            return;
+        }
+        top->Next = newNode;
+        newNode->prev = top;
+        top = newNode; // top = top->Next;
+        count++;
+    }
     
     
     
