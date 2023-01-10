@@ -14,3 +14,22 @@ public:
         this->prev = NULL;
     }
 };
+
+
+class Stack
+{
+    Node *head;
+    Node *top;
+    int count = 0;
+
+public:
+    Stack(){
+        head = NULL;
+        top = NULL;
+    }
+    
+    
+    
+    
+    
+};
