@@ -15,7 +15,6 @@ public:
     }
 };
 
-
 class Stack
 {
     Node *head;
@@ -27,7 +26,7 @@ public:
         head = NULL;
         top = NULL;
     }
-    
+
     //------------PUSH---------------
     void push(int value)
     {
@@ -43,7 +42,7 @@ public:
         top = newNode; // top = top->Next;
         count++;
     }
-    //------------POP---------------
+        //------------POP---------------
     int pop()
         {
             Node *delNOde;
@@ -68,18 +67,29 @@ public:
             return check;
         }
 
-    //------------EMPTY--------------
+        //------------EMPTY--------------
         bool empty(){
             if(head == NULL) return true;
             else return false;
         }
 
-    //-----------------SIZE-----------
+        //-----------------SIZE-----------
         int size(){
             return count;
         }
-    
-    
-    
+        //----------------TOP------------
+
+        int Top(){
+            int chk;
+            if(top == NULL){
+               cout<<"Stack Underflow. There is no value in Top."<<endl;
+               chk = -1;
+            }
+            else{
+                chk = top->value;
+            }
+            return chk;
+        }
+
     
 };
