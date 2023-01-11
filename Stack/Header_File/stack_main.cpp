@@ -9,7 +9,12 @@ int main(){
     st.push(2);
     st.push(3);
     st.push(4);
-
+    
+    while(!st.empty()){
+        cout<<st.pop()<<endl;
+    }
+    cout<<st.size()<<endl;
+    if(!st.empty()) cout<<st.Top()<<endl;
 
     return 0;
 
