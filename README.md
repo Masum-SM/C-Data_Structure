@@ -50,7 +50,7 @@
 <br/>
 
 **:heart: STACK**
- -[Basic Stack Implementation](https://github.com/Masum-SM/Data_Structure/tree/main/Stack/Header_File)
+ - [Basic Stack Implementation](https://github.com/Masum-SM/Data_Structure/tree/main/Stack/Header_File)
 
 <br/>
 
