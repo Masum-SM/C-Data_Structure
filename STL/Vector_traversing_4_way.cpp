@@ -24,6 +24,10 @@ int main(){
   }
   cout<<endl<<endl;
 
+  // vector traversing using auto and iterator
+  for(auto itr = vec.begin(); itr != vec.end(); itr++){
+    cout<< *itr<<" ";
+  }
 
 
   return 0;
