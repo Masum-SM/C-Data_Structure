@@ -10,6 +10,14 @@ int main(){
   }
 
   cout<<endl<<endl;
+  // vector traversing using iterator.
+  vector<int> ::iterator it;
+  for(it=vec.begin(); it != vec.end();it++){
+    cout<<*it<<" ";
+  }
+
+  cout<<endl<<endl;
+
 
 
 
