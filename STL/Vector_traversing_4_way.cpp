@@ -18,6 +18,11 @@ int main(){
 
   cout<<endl<<endl;
 
+  // vector traversing using auto keyword
+  for(auto element : vec){
+    cout<<element<<" ";
+  }
+  cout<<endl<<endl;
 
 
 
