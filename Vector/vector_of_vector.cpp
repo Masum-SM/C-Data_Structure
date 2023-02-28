@@ -56,9 +56,21 @@ int main(){
         }
     }
 
-    for(int i = 0; i<num_of_vector;i++){
+    // =================>  push a vector to the vector container. =======================
+    vec_of_vec.push_back(vector<int>(5,-1));  
+
+    vector<int>v(2);
+    for(int i = 0 ; i < 2 ; i++){
+        int x;
+        cin>>x;
+        v.push_back(x);
+    }
+    vec_of_vec.push_back(v);               // pushing another vector.
+
+    for(int i = 0; i<vec_of_vec.size();i++){
         printVector(vec_of_vec[i]);
     }
+
 
 
     return 0;
