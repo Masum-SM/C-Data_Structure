@@ -24,6 +24,16 @@ Size : 4
 #include<bits/stdc++.h>
 using namespace std;
 
+// ==============================> Print Vector <==========================
+void printVector(vector<int> v){
+    int s = v.size();
+    cout<<"Size : "<<s<<endl;
+    for(auto element : v){
+        cout<<element<<" ";
+    }
+    cout<<endl;
+}
+
 
 int main(){
     int num_of_vector;
