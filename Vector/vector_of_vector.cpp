@@ -26,3 +26,32 @@ Size : 2
 11 22
 
  */
+
+
+#include<bits/stdc++.h>
+using namespace std;
+
+
+int main(){
+    int num_of_vector;
+    cin>>num_of_vector;
+    vector< vector<int> > vec_of_vec(num_of_vector);
+
+    for(int i = 0 ; i < num_of_vector ; i++){
+        int num_of_value_in_vector;
+        cin>>num_of_value_in_vector;
+
+        for(int j = 0 ; j < num_of_value_in_vector ; j++){
+            int value;
+            cin>>value;
+            vec_of_vec[i].push_back(value);
+        }
+    }
+
+    for(int i = 0; i<num_of_vector;i++){
+        printVector(vec_of_vec[i]);
+    }
+
+
+    return 0;
+}
