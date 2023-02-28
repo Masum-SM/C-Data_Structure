@@ -20,6 +20,12 @@ Size : 4
 
  */
 
+//=================================== CONCEPT ==============================
+
+// In array of vector, the number of row is fixed but number of column is dynamic. 
+// row is array size, and column is vector size
+// Array size is fixed after declaring but vector size is dynamic.
+
 
 #include<bits/stdc++.h>
 using namespace std;
