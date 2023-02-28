@@ -20,6 +20,17 @@ First value : 3 Second value : 1
 #include<bits/stdc++.h>
 using namespace std;
 
+//================> PRINT PARI'S VALUES <====================
+void printVector(vector< pair<int,int> >PV){
+    int s;
+    s = PV.size();
+    cout<<"Size: "<<s<<endl;
+    for(int i = 0 ; i < PV.size() ; i++){
+        int first_value = PV[i].first;
+        int second_value = PV[i].second;
+        cout<<"First value : "<<first_value<<" "<<"Second value : "<<second_value<<endl;;
+    }
+}
 
 
 int main(){
